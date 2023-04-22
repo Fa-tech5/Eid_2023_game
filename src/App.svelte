@@ -334,7 +334,7 @@
     <div class="column-center">
       <div class="logo logo-border-animation">
         <div class="logo-text">
-          عيد آل عابد العتيبي
+          فعاليات العيد
         </div>
       </div>
 
